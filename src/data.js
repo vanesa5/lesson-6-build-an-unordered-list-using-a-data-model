@@ -34,6 +34,21 @@ export const filterData = [
       id: 44,
       name: "Fitness Center",
       matchCount: 249
-    }
+    },
+    {
+        id: 10,
+        name: "Cooking Center",
+        matchCount: 269
+      },
+      {
+        id: 11,
+        name: "On-Site Restaurant",
+        matchCount: 277
+      },
+      {
+        id: 12,
+        name: "Bars",
+        matchCount: 219
+      }
   ];
   
