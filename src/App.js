@@ -5,7 +5,7 @@ import {filterData} from "./data.js"
 const App = () => (
   <div className="App">
     {/* TODO: pass your data model as a prop to your FiltersList component */}
-    <FiltersList />
+    <FiltersList filters={filterData}/>
   </div>
 );
 
